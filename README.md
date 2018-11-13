@@ -1,1 +1,1 @@
-# Feed-Forward-Neural-Net-Implementation-
+# Feed-Forward-Neural-Net-Implementation
